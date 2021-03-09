@@ -1,8 +1,9 @@
-# This is a version of integrated HHV-6 reconstruction pipeline used in Kojima et al 2021.
-# please also visit the latest version if you are interested in using this pipeline.
-# -> https://github.com/shohei-kojima/integrated_HHV6_recon
+# about this version
+\# This is a version of integrated HHV-6 reconstruction pipeline used in Kojima et al 2021.
+\# please also visit the latest version if you are interested in using this pipeline.
+\# -> https://github.com/shohei-kojima/integrated_HHV6_recon
 
-######################
+\######################
 
 # This is a README file for integrated_HHV-6_reconstruction_pipeline
 
